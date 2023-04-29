@@ -1,0 +1,5 @@
+ 	 	 	 	EndPlanet
+			Jupiter	Mercury
+ 	 	 	UnknownPlanet	  
+ 	 	 	TreasureRoom	 
+UnknownPlanet	SupplyStations	StartingPlanet	Mars	SupplyStations
